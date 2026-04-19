@@ -35,13 +35,3 @@ Portfolio Link :-https://kumar0896919-sudo.github.io/PankajPandey.github.io/
 -> 📌 Tools & Technologies
 Power BI | SQL | Python | Excel
 
----
-
--> 📷 Screenshots
-(Add your dashboard images here)
-
----
-
--> 📬 Contact
-- LinkedIn: (Add your link)
-- Email: (Add your email)
